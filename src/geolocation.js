@@ -1,0 +1,4 @@
+function getLocation(){
+    return "location";
+}
+

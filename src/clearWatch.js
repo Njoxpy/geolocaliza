@@ -1,0 +1,1 @@
+// clearWatch() - Stops the watchPosition() method.

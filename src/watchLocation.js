@@ -1,0 +1,1 @@
+// watchPosition() - Returns the current position of the user and continues to return updated position as the user moves (like the GPS in a car).
